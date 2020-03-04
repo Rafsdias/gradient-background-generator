@@ -1,8 +1,8 @@
 <h1 align="center">
-    <br>
     Gradient Background Generator
 </h1>
 
+ A simple Gradient Background Generator to test the input type="color"
 
 ## :eyes: Preview
 
