@@ -2,7 +2,7 @@
     Gradient Background Generator
 </h1>
 
- A simple Gradient Background Generator to test the input type="color"
+ A simple Gradient Background Generator to test the input type="color" and copy
 
 ## :eyes: Preview
 
