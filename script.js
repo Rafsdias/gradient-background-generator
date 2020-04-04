@@ -32,3 +32,13 @@ setRandomGradient();
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
+
+
+// instância clipboard
+var clipboard = new Clipboard('.copyButton');
+clipboard.on('success', function(e) {
+    alert('Copy success');
+});
+clipboard.on('error', function(e) {
+    alert('Copy error');
+});
